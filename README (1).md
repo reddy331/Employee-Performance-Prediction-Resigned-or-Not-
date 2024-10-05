@@ -57,6 +57,8 @@ The following features were selected based on their importance in predicting emp
 
 3. **Modeling**:
    Several models were tested in this project:
+   - **Logistic Regression**
+   - **Support Vector System**
    - **K-Nearest Neighbors (KNN)**
    - **Naive Bayes**
    - **Random Forest** (excluded due to overfitting concerns)
@@ -64,7 +66,7 @@ The following features were selected based on their importance in predicting emp
 
    The **Decision Tree** was chosen as the final model due to its balanced performance and generalizability. **Cross-validation** was also used to ensure that the model generalizes well to unseen data.
 
-4. **Evaluation**:
+5. **Evaluation**:
    - Metrics used to evaluate models:
      - Accuracy
      - Precision
