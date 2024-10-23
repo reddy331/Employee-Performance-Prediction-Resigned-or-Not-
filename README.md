@@ -1,0 +1,1 @@
+To start the Light Client, simply double click on `availup.bat`
